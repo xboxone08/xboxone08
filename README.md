@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xboxone08
 - 👀 I’m interested in Python in general
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning everything I see
 - 💞️ I’m looking to collaborate on absolutely nothing at the moment
 - 📫 How to reach me - don't
 
