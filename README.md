@@ -2,4 +2,4 @@
 - 👀 I’m interested in Python in general
 - 🌱 I’m currently learning how to use GitHub properly (just look at my repository histories and you'll know what I mean)
 - 💞️ I’m looking to collaborate on my repository making_mcpi_real because I'm too dumb for this
-- 📫 xboxone08#9868 on Discord or Discussions for a specific repository
+- 📫 I'm available at xboxone08#9868 on Discord or Discussions for a specific repository
